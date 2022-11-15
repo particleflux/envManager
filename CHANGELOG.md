@@ -10,6 +10,9 @@ covered in the changelog.
 ## [Unreleased]
 
 
+## [1.4.0-stefan] - 2022-11-15
+
+
 ## [1.4.0] - 2022-09-05
 ### Added
 - `unload -a` as shorthand for `unload --all`
@@ -40,7 +43,8 @@ covered in the changelog.
 Initial version
 
 
-[Unreleased]: https://github.com/DBX12/envManager/compare/v1.4.0...HEAD
+[Unreleased]: https://github.com/DBX12/envManager/compare/v1.4.0-stefan...HEAD
+[1.4.0-stefan]: https://github.com/DBX12/envManager/compare/v1.4.0...v1.4.0-stefan
 [1.4.0]: https://github.com/DBX12/envManager/compare/v1.3.0...v1.4.0
 [1.3.0]: https://github.com/DBX12/envManager/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/DBX12/envManager/compare/v1.1.0...v1.2.0
